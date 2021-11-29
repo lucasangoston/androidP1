@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alexp/AndroidStudioProjects/Yuka1/app/src/main/res/drawable/mainPicture_background.xml" value="0.290625" />
+        <entry key="..\:/Users/alexp/AndroidStudioProjects/Yuka1/app/src/main/res/drawable/toolbar.xml" value="0.15989583333333332" />
+        <entry key="..\:/Users/alexp/AndroidStudioProjects/Yuka1/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/alexp/AndroidStudioProjects/Yuka1/app/src/main/res/layout/activity_second.xml" value="0.16485507246376813" />
+        <entry key="..\:/Users/alexp/AndroidStudioProjects/Yuka1/app/src/main/res/menu-v31/theme.xml" value="0.1" />
+        <entry key="..\:/Users/alexp/AndroidStudioProjects/Yuka1/app/src/main/res/mipmap-anydpi-v26/mainPicture.xml" value="0.290625" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/circle.xml" value="0.3148148148148148" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/circleGreen.xml" value="0.3148148148148148" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/circleYellow.xml" value="0.3148148148148148" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/circle_green.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/circle_red.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_calories.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_empty_saved.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_launcher_background.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_nav_bar_bookmarks.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_nav_bar_cart.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_nav_bar_profile.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_nav_bar_stats.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_ranking.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/ic_tab_nutrition.xml" value="0.38333333333333336" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/drawable/toolbar.xml" value="0.32222222222222224" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/activity2.xml" value="0.325" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/activity3.xml" value="0.6666666666666666" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/activity4.xml" value="0.20364583333333333" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/activity_second.xml" value="0.10144927536231885" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/circle_green.xml" value="0.20625" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/fragment1.xml" value="0.14266304347826086" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/fragment2.xml" value="0.22" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/layout.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/listFiche.xml" value="0.1" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/list_cell.xml" value="0.1480978260869565" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/layout/list_item.xml" value="0.34551495016611294" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/menu/product_detail_tabs.xml" value="0.1796875" />
+        <entry key="..\:/Users/langoston/Yuka1/app/src/main/res/xml/attrs.xml" value="0.14266304347826086" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

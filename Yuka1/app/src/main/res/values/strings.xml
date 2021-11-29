@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yuka1</string>
+    <string name="barcode">Barcode : %1$s</string>
+</resources>
