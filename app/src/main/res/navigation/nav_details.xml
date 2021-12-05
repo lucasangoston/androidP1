@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    android:id="@+id/nav_details.xml"/>
+    android:id="@+id/nav_details.xml"
+    app:startDestination="@id/productDetailsNutritionFragment">
+    <fragment
+        android:id="@+id/productDetailsNutritionFragment"
+        android:name="com.apaprocki.yuka.ProductDetailsNutritionFragment"
+        android:label="ProductDetailsNutritionFragment" />
+    <fragment
+        android:id="@+id/productDetailsNutritionalValuesFragment"
+        android:name="com.apaprocki.yuka.ProductDetailsNutritionalValuesFragment"
+        android:label="ProductDetailsNutritionalValuesFragment" />
+    <fragment
+        android:id="@+id/productsListFragment2"
+        android:name="com.apaprocki.yuka.ProductsListFragment"
+        android:label="ProductsListFragment" />
+</navigation>

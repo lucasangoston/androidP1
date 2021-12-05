@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/app_nav.xml"
-    app:startDestination="@id/productsListFragment">
-    <fragment
-        android:id="@+id/productsListFragment"
-        android:name="com.apaprocki.yuka.ProductsListFragment"
-        android:label="ProductsListFragment" />
+    app:startDestination="@id/mainActivity">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.apaprocki.yuka.MainActivity"
+        android:label="activity2"
+        tools:layout="@layout/detail_item" />
 </navigation>

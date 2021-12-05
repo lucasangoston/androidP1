@@ -20,8 +20,9 @@
         android:id="@+id/nom"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:paddingLeft="10sp"
-        android:text="@string/nom"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:text="nom"
         android:textSize="18dp"
         android:textStyle="bold" />
 
@@ -31,6 +32,7 @@
         android:orientation="horizontal">
 
         <TextView
+            android:id="@+id/marque"
             android:layout_width="313dp"
             android:layout_height="wrap_content"
             android:paddingLeft="10sp"
@@ -38,6 +40,7 @@
             android:textSize="15dp" />
 
         <ImageView
+            android:id="@+id/nutriscore"
             android:layout_width="78dp"
             android:layout_height="42dp"
             android:adjustViewBounds="true"
@@ -46,46 +49,55 @@
     </LinearLayout>
 
     <TextView
+        android:id="@+id/code_barre"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:id="@+id/barcode"
-        android:text="Codes barres: 3083680085304"
+        android:text="Codes barres: "
         android:textSize="15dp"
         android:paddingLeft="10dp"
         />
     <TextView
+        android:id="@+id/quantite"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Quantité 400g (280g net égoutté)"
+        android:text="Quantité: "
         android:textSize="15dp"
         android:paddingLeft="10dp"/>
+
     <TextView
+        android:id="@+id/paysList"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Vendu en: France, Japon, Suisse"
+        android:text="Vendu en: "
         android:textSize="15dp"
         android:paddingLeft="10dp"/>
+
     <TextView
+        android:id="@+id/ingredients"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Ingrédients: Petits pois 66%, eau, garniture 2.8% (salade, oignon, grelot), sucre, sel, arôme naturel"
+        android:text="Ingrédients: "
         android:textSize="15dp"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"/>
+
     <TextView
+        android:id="@+id/substances"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Substances allergènes: Aucune"
+        android:text="Substances allergènes: "
         android:textSize="15dp"
         android:paddingLeft="10dp"/>
+
     <TextView
+        android:id="@+id/additifs"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
-        android:text="Additifs: Aucun"
+        android:text="Additifs: "
         android:textSize="15dp"
         android:paddingLeft="10dp"/>
 </LinearLayout>

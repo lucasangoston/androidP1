@@ -13,7 +13,7 @@ class ProductDetailsSummaryFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         return inflater.inflate(
-            R.layout.activity4,
+            R.layout.detail_tableau,
             container,
             false
         )

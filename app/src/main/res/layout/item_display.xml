@@ -48,7 +48,7 @@
                 app:layout_constraintTop_toTopOf="parent" />
 
             <TextView
-                android:id="@+id/marque"
+                android:id="@+id/marqueItem"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginStart="8dp"
@@ -66,7 +66,7 @@
                 android:layout_marginTop="10dp"
                 android:scaleType="centerCrop"
                 app:layout_constraintStart_toStartOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/marque" />
+                app:layout_constraintTop_toBottomOf="@+id/marqueItem" />
 
             <TextView
                 android:id="@+id/rankingText"
