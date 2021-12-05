@@ -1,1 +1,1 @@
-"# androidP1" 
+Project Android developed in Kotlin 
